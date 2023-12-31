@@ -1,0 +1,86 @@
+RSInitial state:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS10  7 12  -
+RSExpected final state:
+RS 1  2  3  4
+RS 5  6  7  8
+RS 9 10 11 12
+RS
+13 14 15
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS10  7  - 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS10  -  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
+RSAfter RIGHT:
+RS11  2  6  1
+RS 3  4 13  5
+RS 9  8 15 14
+RS - 10  7 12
